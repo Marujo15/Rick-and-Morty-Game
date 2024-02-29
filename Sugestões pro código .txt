@@ -1,0 +1,27 @@
+Sugestões pro código: 
+
+Kenji:
+
+	1. Ao invés de usar class para game, usar id
+	2. Não fazer 42 requests de uma só vez
+	3. Ir carregando os requests conforme o jogo for rodando
+	4. Colocar a RAM no localStorage para evitar recarregar coisas desnecessarias
+	5. não é legar renderGame() a cada clique no botão
+	6. deixar botões já criados no HTML
+	7. atribuir evento de click só uma vez
+	8. se no random selecionar um personagem ou pagina q não tenha no objeto fazer request, se tiver pega do localstorage (ou da memória)
+	9. criar classe do game em módulo
+	10. usar import
+
+Sugestões pro jogo: 
+
+Eu:
+	
+	1. Implementar uma Tela Inicial com Botão "Iniciar Jogo" e com Imagem de Fundo
+
+Raissa:
+	
+	1. Implementar vidas
+	2. Acrescentar Notificação ao atingir conquistas especificas
+	3. Implementar nivel de dificuldade
+
